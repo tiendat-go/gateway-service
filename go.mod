@@ -4,8 +4,8 @@ go 1.24.1
 
 require (
 	github.com/joho/godotenv v1.5.1
-	github.com/tiendat-go/common-service v1.0.0
-	github.com/tiendat-go/proto-service v1.0.0
+	github.com/tiendat-go/common-service v1.0.3
+	github.com/tiendat-go/proto-service v1.0.7
 	google.golang.org/grpc v1.71.0
 )
 
